@@ -1,0 +1,8 @@
+https://docs.google.com/document/d/19-yrrckK55JFnhlsc8OWG1LouTJ-DUkW2RUsKWIOT0c/edit?tab=t.0#heading=h.1tiup1mwqtlu
+
+Topics:
+1.Input Output
+2.Data Types
+3.If Else
+4.If Else Ladder
+5.Nested If Else
