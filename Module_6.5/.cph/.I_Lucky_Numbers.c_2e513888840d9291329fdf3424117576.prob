@@ -1,0 +1,1 @@
+{"name":"Local: I_Lucky_Numbers","url":"e:\\DSA\\Module_6.5\\I_Lucky_Numbers.c","tests":[{"id":1730698620258,"input":"10","output":"YES"},{"id":1730698631573,"input":"71","output":"YES"},{"id":1730698669693,"input":"79","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\Module_6.5\\I_Lucky_Numbers.c","group":"local","local":true}
