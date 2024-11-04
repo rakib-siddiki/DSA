@@ -47,7 +47,7 @@ int main()
     }
     else if (b_divisible)
     {
-        printf("Memo");
+        printf("Momo");
     }
     else
     {
