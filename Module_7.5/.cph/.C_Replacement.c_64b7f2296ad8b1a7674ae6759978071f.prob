@@ -1,0 +1,1 @@
+{"name":"Local: C_Replacement","url":"e:\\DSA\\Module_7.5\\C_Replacement.c","tests":[{"id":1730804872961,"input":"5\n1 -2 0 3 4","output":"1 2 0 1 1 "},{"id":1730804886342,"input":"5\n1 -2 0 3 4","output":"1 2 0 1 1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\Module_7.5\\C_Replacement.c","group":"local","local":true}
