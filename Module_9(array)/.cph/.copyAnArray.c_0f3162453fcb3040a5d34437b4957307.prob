@@ -1,0 +1,1 @@
+{"name":"Local: copyAnArray","url":"e:\\DSA\\Module_9(array)\\copyAnArray.c","tests":[{"id":1731058943158,"input":"3\n10 20 30\n4\n40 50 60 70","output":"10 20 30 40 50 60 70"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\Module_9(array)\\copyAnArray.c","group":"local","local":true}
