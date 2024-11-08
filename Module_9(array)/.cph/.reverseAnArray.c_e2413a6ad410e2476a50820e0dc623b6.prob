@@ -1,0 +1,1 @@
+{"name":"Local: reverseAnArray","url":"e:\\DSA\\Module_9(array)\\reverseAnArray.c","tests":[{"id":1730983440020,"input":"3\n10 20 30 ","output":"30 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\Module_9(array)\\reverseAnArray.c","group":"local","local":true}
